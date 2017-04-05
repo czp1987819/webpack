@@ -1,0 +1,9 @@
+.header {
+    height: 45px;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    line-height: 45px;
+    background-color: #233345;
+    color: #fff;
+}
